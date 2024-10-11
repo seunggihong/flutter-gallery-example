@@ -1,4 +1,4 @@
-# flutter_gallery_example
+# Flutter gallery example
 
 iOS permisson
 
@@ -20,4 +20,3 @@ Android permisson
     <uses-permisson android:name="android.permisson.CAMERA"/>
 ...
 ```
-# flutter-gallery-example
